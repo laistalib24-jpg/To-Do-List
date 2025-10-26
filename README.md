@@ -86,4 +86,4 @@ If you’ve hosted it (e.g., on GitHub Pages or Netlify), you can add:
 
 📄 License
 
-This project is open-source and available under the MIT License
+This project is open-source and available under the MIT License  
